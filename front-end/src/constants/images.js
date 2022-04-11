@@ -13,6 +13,7 @@ import mu5 from "../assets/mu5.png";
 import node from "../assets/node.png";
 import python from "../assets/python.png";
 import react from "../assets/react.png";
+import react1 from "../assets/react1.png";
 import redux from "../assets/redux.png";
 import sass from "../assets/sass.png";
 import typescript from "../assets/typescript.png";
@@ -25,6 +26,8 @@ import about04 from "../assets/about04.png";
 
 import profile from "../assets/profile.png";
 import profile1 from "../assets/profile1.png";
+import profile2 from "../assets/profile2.png";
+import profile3 from "../assets/profile3.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
 
@@ -54,6 +57,7 @@ export default {
   node,
   python,
   react,
+  react1,
   redux,
   sass,
   typescript,
@@ -73,6 +77,8 @@ export default {
   skype,
   spotify,
   profile1,
+  profile2,
+  profile3,
   sql,
   js,
 };
